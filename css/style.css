@@ -1273,24 +1273,3 @@ footer .credits a {
   color: #191919;
 }
 
-
-button.cv{
-  background-color: #fff;
-  border: 1px solid #0078ff;
-  width: 100%;
-  color: #0078ff;
-  padding: 10px;
-  border-radius: 6px;
-  cursor: pointer;
-  transition: 0.4s ease;
-}
-button.cv:hover {
-  background-color: #0078ff;
-  border: 1px solid #fff;
-  color: #fff;
-}
-
-
-button.cv:focus {
-  outline: none;
-}
